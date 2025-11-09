@@ -2,7 +2,7 @@
 
 This program is written entirely in Visual Studio 2022.
 
-Before running our project, you need to do these few steps:
+Before running the project, you need to do these few steps:
 
 1. Create a new project.
  
