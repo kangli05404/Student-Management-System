@@ -11,4 +11,3 @@ Before running the project, you need to do these few steps:
 3. Open the Project Folder in File Explorer, then put "exam.txt" and "student.txt" for reading and writing.
    
 4. Go to Project at the top of Visual Studio 2022 > Click Project Properties > Choose C/C++ under Configuration Properties > Click Preprocessor > Edit Preprocessor Definitions > Copy "_CRT_SECURE_NO_WARNINGS" and paste it.
-hello
